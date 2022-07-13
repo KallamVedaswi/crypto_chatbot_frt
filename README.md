@@ -26,7 +26,7 @@ In this project, core Azure services are used, i.e.,
 - File -> Open Bot
 - Enter a Bot URL of `http://localhost:3978/api/messages`
 
-# Deploy the bot to Azure
+## Deploy the bot to Azure
 See [Deploy your C# bot to Azure][50] for instructions.
 
 The deployment process assumes you have an account on Microsoft Azure and are able to log into the [Microsoft Azure Portal][60].
@@ -56,3 +56,11 @@ If you are new to Microsoft Azure, please refer to [Getting started with Azure][
 [80]: https://docs.botframework.com
 [90]: https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-basics?view=azure-bot-service-4.0
 [100]: https://docs.microsoft.com/en-us/azure/bot-service/bot-service-overview-introduction?view=azure-bot-service-4.0
+[110]: https://docs.microsoft.com/en-us/azure/bot-service/?view=azure-bot-service-4.0
+[120]: https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest
+[130]: https://github.com/Microsoft/botbuilder-tools/tree/master/packages/MSBot
+[140]: https://portal.azure.com
+[150]: https://www.luis.ai
+
+[71]: https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/improve-knowledge-base
+[72]: https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/multiturn-conversation
